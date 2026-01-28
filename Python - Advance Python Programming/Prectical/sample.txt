@@ -1,0 +1,2 @@
+Hello, this is a sample file.
+We are writing data using Python file handling.
